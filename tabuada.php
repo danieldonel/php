@@ -34,7 +34,8 @@
             echo($valor * $x);
             echo("</div> <br>");
             echo($nome);
-        }                  
+        }             
+             
     ?>
 </body>
 </html>
